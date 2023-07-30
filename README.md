@@ -51,6 +51,7 @@ I believe the battery is lasting much longer now. I've had the laptop open and g
 
 ## To-do
 
+* Install Nvidia drivers if Fedora doesn't have them
 * Create a snapshot of my current system
 * Customize the desktop environment
 * Download frequently used apps using package manager
