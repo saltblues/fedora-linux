@@ -4,8 +4,9 @@
 * [General-info] (#general-info)
 * [Project-learning-goals] (#project-learning-goals)
 * [Installation] (#installation)
-* 
-
+* [Post-installation-issues] (#post-installation-issues)
+* [To-do] (#to-do)
+ 
 ## General info
 I have decided to learn Linux to gain system administration skills. This project will be dedicated to documenting the changes made to the system, until I find a more efficient notetaking solution. 
 
