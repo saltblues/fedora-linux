@@ -1,13 +1,6 @@
 # fedora-linux
-
-## Table of contents
-* [General-info] (#general-info)
-* [Project-learning-goals] (#project-learning-goals)
-* [Installation] (#installation)
-* [Post-installation-issues] (#post-installation-issues)
-* [To-do] (#to-do)
  
-## General info
+## General Info
 I have decided to learn Linux to gain system administration skills. This project will be dedicated to documenting the changes made to the system, until I find a more efficient notetaking solution. 
 
 Coming from macOS, I have exclusively used GitHub on the command line. I want to learn to "live in the terminal" to be more efficient, secure, and create cool things!
@@ -16,7 +9,7 @@ I began with a new computer. It contained none of my data, so I created a recove
 
 I researched different distros for over a week, and narrowed it down to Linux Mint or Fedora Linux. Though I am a complete beginner and Mint is often recommended to those with little experience, I decided to go with Fedora as my first distro. I enjoyed the look and feel of Fedora Workstation (it reminds me of macOS), but chose Fedora Cinnamon due to how customizable it is. It will be fun to unlock its potential as a DE. 
 
-## Project learning goals
+## Project Learning Goals
 * Learn proper documentation practices
 * Build a wiki
 * Establish a standard installation and setup process that can be replicated with every new system
@@ -36,7 +29,7 @@ I researched different distros for over a week, and narrowed it down to Linux Mi
 5. Perform a clean install of Fedora after extensive research on everything that could go wrong and hope for the best 🫢
 6. Everything works!
 
-## Post-installation issues
+## Post-Installation Issues
 
 Updated the system from the command line with `sudo dnf upgrade`. Had to reboot after an error took place. Everything was fine after rebooting.
 
