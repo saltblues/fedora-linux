@@ -50,9 +50,12 @@ I believe the battery is lasting much longer now. I've had the laptop open and g
 
 ## To-do
 
+* Create a snapshot of my current system
 * Customize the desktop environment
 * Download frequently used apps using package manager
 * Log into my accounts
-* Create my development environments for python and javascript
-* Figure out basic linux command line 
+* Create my development environments for Python and JavaScript
+* Figure out basic Linux command line 
 * Research best security practices for linux
+* Write a script that helps me log all changes made to the system
+* Write scripts that automate repetitive processes
