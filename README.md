@@ -42,16 +42,18 @@ I understand there are some issues with the battery draining too fast on the Del
 
 I believe the battery is lasting much longer now. I've had the laptop open and going to sleep while unplugged and it is still relatively full. 
 
+Update 08/03/23: Battery is incredibly efficient since the change. 
+
 ## To-do
 
-* Enable RPM Fusion
-* Install Nvidia drivers if Fedora doesn't have them
-* Create a snapshot of my current system
-* Customize the desktop environment
-* Download frequently used apps using package manager
-* Log into my accounts
-* Create my development environments for Python and JavaScript
-* Figure out basic Linux command line 
-* Research best security practices for linux
-* Write a script that helps me log all changes made to the system
-* Write scripts that automate repetitive processes
+* [Enable RPM Fusion](https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/package-management/DNF/)
+* [Install password manager](https://www.makeuseof.com/install-set-up-bitwarden-linux/)
+* [Create a snapshot of my current system](https://fedoraproject.org/wiki/Btrfs)
+* [Customize the desktop environment](https://www.youtube.com/watch?v=AnNx-Se9wkc)
+* [Download frequently used apps using package manager](https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/package-management/DNF/#sec-Installing)
+* [Log into my accounts and manage users](https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/basic-system-configuration/Managing_Users_and_Groups/)
+* [Create my development environments for Python and JavaScript](https://code.visualstudio.com/download)
+* [Figure out basic Linux command line](https://linuxjourney.com/)
+* [Research best security practices for linux](https://fedoraproject.org/wiki/SecurityBasics)
+* [Write a script](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) that helps me [log all changes made to the system](https://www.reddit.com/r/linuxquestions/comments/q2pnpx/any_way_to_track_all_of_the_changes_made_to_a/)
+* [Write scripts that automate repetitive processes](https://opensource.com/article/19/12/automation-bash-scripts)
